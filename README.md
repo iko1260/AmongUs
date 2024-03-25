@@ -1,2 +1,0 @@
-# AmongUs
-Enterprise-Project
